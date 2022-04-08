@@ -1,0 +1,6 @@
+﻿  double_link_list.cpp
+C:\Users\Aria\Desktop\double_link_list\double_link_list\dll_tester.h(133,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Aria\Desktop\double_link_list\double_link_list\dll_tester.h(136,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Aria\Desktop\double_link_list\double_link_list\dll_tester.h(152,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Aria\Desktop\double_link_list\double_link_list\dll_tester.h(155,19): warning C4101: 'ex': unreferenced local variable
+  double_link_list.vcxproj -> C:\Users\Aria\Desktop\double_link_list\Debug\double_link_list.exe
